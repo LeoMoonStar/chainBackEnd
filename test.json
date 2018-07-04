@@ -1,0 +1,62 @@
+{
+    "envelopeTemplates": [
+      {
+        "templateId": "99a1bfe9-4bdc-4665-b25c-de7e3ecab154",
+        "name": "referralAgreement",
+        "shared": "true",
+        "password": "",
+        "description": "referral agreement between nobul and brokers",
+        "lastModified": "2018-06-26T17:33:07.4900000Z",
+        "created": "0001-01-01T00:00:00.0000000Z",
+        "pageCount": 1,
+        "uri": "/templates/99a1bfe9-4bdc-4665-b25c-de7e3ecab154",
+        "folderName": "Templates",
+        "folderId": "a41a5b22-fa4a-4208-85e3-8ce576e56f54",
+        "folderUri": "/folders/a41a5b22-fa4a-4208-85e3-8ce576e56f54",
+        "owner": {
+          "userName": "Jiawei Yang",
+          "userId": "a0ae6752-09f2-4b4d-9555-1c6301b989dc",
+          "email": "jyang@nobul.com"
+        },
+        "emailSubject": "Please DocuSign: ReferralAgreement-641.pdf",
+        "emailBlurb": "",
+        "signingLocation": "Online",
+        "authoritativeCopy": "false",
+        "enforceSignerVisibility": "false",
+        "enableWetSign": "true",
+        "allowMarkup": "false",
+        "allowReassign": "true"
+      },
+      {
+        "templateId": "5d1a4ffd-7f59-4bb9-adaa-361f023bffae",
+        "name": "test",
+        "shared": "true",
+        "password": "",
+        "description": "template for multiple users",
+        "lastModified": "2018-06-27T12:48:38.6670000Z",
+        "created": "0001-01-01T00:00:00.0000000Z",
+        "pageCount": 3,
+        "uri": "/templates/5d1a4ffd-7f59-4bb9-adaa-361f023bffae",
+        "folderName": "Templates",
+        "folderId": "a41a5b22-fa4a-4208-85e3-8ce576e56f54",
+        "folderUri": "/folders/a41a5b22-fa4a-4208-85e3-8ce576e56f54",
+        "owner": {
+          "userName": "Jiawei Yang",
+          "userId": "a0ae6752-09f2-4b4d-9555-1c6301b989dc",
+          "email": "jyang@nobul.com"
+        },
+        "emailSubject": "Agreement send from broker",
+        "emailBlurb": "",
+        "signingLocation": "Online",
+        "authoritativeCopy": "false",
+        "enforceSignerVisibility": "false",
+        "enableWetSign": "true",
+        "allowMarkup": "false",
+        "allowReassign": "true"
+      }
+    ],
+    "resultSetSize": "2",
+    "startPosition": "0",
+    "endPosition": "1",
+    "totalSetSize": "2"
+  }
